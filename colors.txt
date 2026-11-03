@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 color: red
+=======
+color: green
+>>>>>>> feature/login
